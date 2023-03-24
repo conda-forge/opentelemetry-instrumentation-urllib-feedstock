@@ -1,11 +1,11 @@
-About opentelemetry-instrumentation-urllib
-==========================================
+About opentelemetry-instrumentation-urllib-feedstock
+====================================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-urllib-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-urllib
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-urllib-feedstock/blob/main/LICENSE.txt)
 
 Summary: OpenTelemetry urllib instrumentation
 
